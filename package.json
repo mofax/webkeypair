@@ -1,0 +1,29 @@
+{
+  "name": "webkeypair",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "tsc && node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofax/webkeypair.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "engines": {
+    "node": ">18.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mofax/webkeypair/issues"
+  },
+  "homepage": "https://github.com/mofax/webkeypair#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.17"
+  }
+}
